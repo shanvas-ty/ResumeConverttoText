@@ -4,4 +4,5 @@ Freego Project Guidelines
 2. Project Management Pages is at: https://docs.google.com/document/d/1tigLVSJRf9NT2OhasIGg55mearBJEItaiOpvAjHPIoU
 3. Project Architecture and requirements highlevel: https://docs.google.com/document/d/1pJ9eJezgnSrh1GttboqZFFx1505hz8dECNKWKtjfW4Y
 
+Frego is a AI engine with companion for a user for their assistance
 <To be added - More details>
