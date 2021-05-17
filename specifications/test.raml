@@ -10,4 +10,20 @@
                     uname: "Raj",
                     role: "admin"
                   }
+
+/nextquestion:
+  get:
+    description: Next question to show to users with answers
+    responses:
+        200: 
+          body:
+            application/json:
+              example: |
+                {
+                 question: "Select your date of birth range",
+                 answers:["Before 1990",
+                 "In between 1990 to 2000 ",
+                 "After 2000 but eariler than 2005",
+                 "Before 2010"]
+                 } 
                   
