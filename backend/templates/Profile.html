@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ProfilePage</title>
+</head>
+<body>
+<div>
+     <table  style="width:75% ">
+          {% for k,v in data.items %}
+            <thead >
+                <th style="width:30%;color:black">{{k}}  </th>
+            </thead>
+         {% endfor %}
+         {% for k,v in data.items %}
+         <tr >
+             <td style="color:black">{{v}}</td>
+         </tr>
+         {% endfor %}
+        </table>
+<!--    {% for k,v in data.items %}-->
+<!--        <li>{{k}}</li><p>{{v}} </p>-->
+<!--    {% endfor %}-->
+</div>
+</body>
+</html>
