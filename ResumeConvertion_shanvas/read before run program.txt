@@ -1,0 +1,1 @@
+pip install -r requirements.txt    #---run this code before start program
