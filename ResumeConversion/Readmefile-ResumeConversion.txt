@@ -16,8 +16,8 @@ Make sure you have the following dependencies installed:
 ## Usage
 
 1. Place the files you want to convert in the "./ResumeConversion/InputDataLoad" directory.
-2. Run the program by executing the following command:
-
+2. Run the program "./ResumeConversion/Code/CVconversion-allformatfiletotxt" by executing the following command:
+     python CVconversion-allformatfiletotxt.py
 3. The program will list the folders/files present in the specified directory.
 4. If there are no files available for conversion, a message will be displayed indicating the same.
 5. If there are files available, the program will iterate over each file in the directory.
