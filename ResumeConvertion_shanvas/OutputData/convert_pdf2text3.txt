@@ -1,0 +1,138 @@
+PERSONAL SUMMARY
+
+A motivated IT professional seeking
+challenging and dynamic position with a
+company poised for growth. I am a quick
+learner and thrive to excel in bringing success
+to organization and self, in terms of marketing
+strategy and business growth.
+
+AREAS OF EXPERTISE
+
+Python, My SQL
+
+Data Science,Machine Learning,
+Deep Learning,Natural Language
+Processing
+
+HTML, CSS
+
+Django
+
+AWS (basic)
+
+MS Office ,C, C++,VB 6.
+
+CCNA
+
+SPECIALIZATIONS
+
+Numpy, Pandas, Tensor Flow, Keras,
+SciKit-Learn, Matplotlib,Seaborn
+Database ,Git
+
+SQL Lite, PostgreSQL.
+
+DOMAIN EXPERTISE
+
+e Jupyter Notebook, SQL, VS Code, PyCharm
+e Webpage designing
+
+PLATFORMS
+Expertise in Windows & Linux platforms
+OTHER SKILLS
+
+Teamwork Communication, Critical thinking
+Problem Solving
+
+Analyze,design and implement database
+structures.
+
+AREAS OF INTEREST
+
+Data Engineer
+Data Scientist
+Python Developer
+AI Developer
+
+SHANVAS T Y
+
+MCA, DATA SCIENTIST
+
+GET IN CONTACT
+
+Mobile: +91-9446910978
+E-mail: shanvas786@gmail.com LinkedIn: www.linkedin.com/in/shanvas-ty
+
+ACADEMIC QUALIFICATIONS
+
+1. Data Science in Python with AI
+Expertzlab ,Cochin
+2. Master of Computer Application (MCA) (2007 — 2011)
+Vidya Academy of Science & Technology College,
+Thrissur,Kerala, India
+Calicut University
+3. Bachelor of Computer Application(BCA) (2004 — 2007)
+Nirmala College
+Muvattupuzha,Kerala, India
+MG University
+4. Higher Secondary Education
+TTVHS School
+Muvattupuzha,Kerala, India
+5. Secondary Education
+Nirmala High School
+Muvattupuzha,Kerala, India
+
+(2021 — 2022)
+
+First Class (60.18%)
+
+First Class (71.83%)
+
+(2002 — 2004)
+
+First Class (62.33%)
+
+(2001 — 2002)
+
+First Class (67.67%)
+
+EXPERIENCE SUMMARY
+
+1. Gofreelab Technologies,Cochin
+Job Role: Data Scientist Internship
+
+2. South Mountain Contracting WLL, Doha Qatar (Jan 2019 — July 2021)
+Job Role: Assistant IT Manager
+
+3. South Mountain Contracting WLL, Doha Qatar (Jan 2013 — Jan 2019)
+Job Role: System Administrator
+
+4. Ansar Group, Sharjah
+Job Role: IT Support
+
+5. Voxx Technologies, Arayidathupalam,Calicut
+Job Role: Program Trainee
+
+(Sep 2021 — Present)
+
+(Jan 2012 — Jan 2013)
+
+(Dec 2010 — Dec 2011)
+
+PROJECTS
+
+SMS Spam Detection
+Spam detector is an NLP project using Logistic Regression to detect whether a
+message is spam or not
+
+Optimizing agricultural Production
+
+Precision agriculture is in trend nowadays.It helps the farmers to get informed
+decision about the farming strategy.Here users to build a predictive model to
+recommend the most suitable crops to grow in a particular farm based on various
+parameters like fertilizer content in soil, temperature,humidity,ph,rainfall etc
+
+REFERENCE
+
+Furnished upon request

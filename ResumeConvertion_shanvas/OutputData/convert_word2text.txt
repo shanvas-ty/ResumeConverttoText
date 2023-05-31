@@ -1,0 +1,153 @@
+PERSONAL PROFILE
+
+A driven software developer, seeking to use proven Python skills to deliver coding excellence.
+
+Extensive experience in architecting, designing and developing ML/DL.
+
+
+GET IN CONTACT
+
+
+
+
+
+R E M O
+
+R O Z A R IOMobile: +91-8590612986
+
+Email : remo.rozario@yahoo.com
+
+
+
+PROJECTS
+
+SMS Spam Detection
+
+Split the data as train and test
+
+
+
+
+
+
+LinkedIn: www.linkedin.com/in/remo- rozario
+
+
+
+
+
+
+
+AREAS OF EXPERTISE
+
+Python, SQL experience
+
+Machine Learning, Deep Learning, Natural Language Processing HTML, CSS
+
+Django AWS
+
+
+Predicted the given data by applying Logistic Regression
+
+Learned basic NLP tasks and used a machine learning classifier to predict whether the SMS is spam or not.
+
+
+
+Pizza Price Prediction
+
+Pizza price is predicted with the given data by applying Linear Regression.
+
+
+
+Price prediction using Linear Regression, Polynomial Regression.
+
+Building Keras models, Diagnostic Plot, Predictions.
+
+Preprocessing data and loading data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTHER SKILLS
+
+The ability to analyze complex technical information.
+
+Can analyze, design and implement database structures.
+
+
+CERTIFICATION
+
+DATA SCIENCE WITH PYTHON | 2021-2022
+
+
+
+
+
+		
+
+
+
+
+
+DOMAIN EXPERTISE
+
+Jupyter Notebook, SQL, VSS, PyCharm
+
+Webpage designing
+
+
+WORK EXPERIENCE
+
+ENGINEER
+
+
+
+		
+
+
+
+
+
+PLATFORMS
+
+Expertise in Linux and Windows platforms.
+
+
+
+SPECIALIZATIONS
+
+Database, Git, Debugging. Numpy, Pandas, SciKit Learn, Matplotlib, Keras, TensorFlow. SQL Lite, PostgreSQL.
+
+
+EDUCATION HISTORY
+
+ANNA UNIVERSITY
+
+Bachelor in Computer Science and Engineering
+
+
+
+KERALA UNIVERSITY
+
+HSC
+
+M.S.M Higher Secondary School
+
+
+
+KERALA UNIVERSITY
+
+SSLC
+
+St. Aloysius Higher Secondary School
